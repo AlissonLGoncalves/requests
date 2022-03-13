@@ -1,3 +1,5 @@
+
+
 Requests was lovingly created by Kenneth Reitz.
 
 Keepers of the Crystals
@@ -192,3 +194,4 @@ Patches and Suggestions
 - Alessio Izzo (`@aless10 <https://github.com/aless10>`_)
 - Sylvain Marié (`@smarie <https://github.com/smarie>`_)
 - Hod Bin Noon (`@hodbn <https://github.com/hodbn>`_)
+
